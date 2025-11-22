@@ -16,7 +16,7 @@ System.out.println("Default value of byte is "+df.a);
  System.out.println("Default value of float is "+df.e);
  System.out.println("Default value of double is "+df.f);
  System.out.println("Default value of char is "+df.g);
- System.out.println("Default value of String is "+df.h);
+ System.out.println("Default value of boolean is "+df.h);
  //This wont work for local variables because they dont get local values
 }
 }
